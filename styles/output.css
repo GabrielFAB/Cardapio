@@ -923,10 +923,6 @@ video {
   max-width: 80rem;
 }
 
-.max-w-7 {
-  max-width: 1.75rem;
-}
-
 .flex-shrink {
   flex-shrink: 1;
 }
@@ -2707,10 +2703,6 @@ body {
 }
 
 @media (min-width: 768px) {
-  .md\:grid {
-    display: grid;
-  }
-
   .md\:min-w-\[600px\] {
     min-width: 600px;
   }
